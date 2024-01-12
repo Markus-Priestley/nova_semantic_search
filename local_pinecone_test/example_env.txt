@@ -1,0 +1,5 @@
+API_KEY="YOUR-PINECONE-API-KEY"
+ENVIRONMENT="YOUR-PINECONE-ENVIRONMENT (might be gcp-starter)"
+API_TOKEN="YOUR-HUGGINGFACE-API-TOKEN"
+
+Replace variable values with your personal information
